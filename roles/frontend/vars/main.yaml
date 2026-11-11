@@ -1,1 +1,3 @@
 backend: backend.daws81s.store
+path_location: /usr/share/nginx/html
+component: frontend
