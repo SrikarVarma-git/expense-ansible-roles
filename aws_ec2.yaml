@@ -3,7 +3,7 @@ regions:
 - us-east-1
 filters:
   # This selects only running instances with tag `Environment` tag set to `nginx`.
-  tag:Environment: nginx
+  tag:Name: nginx
   instance-state-name : running
 hostnames:
   # This option allows displaying the public ip addresses.
